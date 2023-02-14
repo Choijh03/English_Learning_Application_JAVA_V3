@@ -10,6 +10,12 @@ This app can be found on google store: MoM, Let's learn English.
 
 Google store link: https://play.google.com/store/apps/details?id=com.hiri.englishlearner
 
+What's different from first version:
+
+-Papago logo animation was added in papago translation activity
+
+-More culture and phrases are available.
+
 Available Functionalities:
 
 - Splash Screen:
