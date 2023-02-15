@@ -16,9 +16,13 @@ Google store link: https://play.google.com/store/apps/details?id=com.hiri.englis
 
 What's different from second version:
 
--Papago logo animation was added in papago translation activity
+-Papago logo animation was added in translation, camera, culture, and phrases activities.
+
+-Culture pop-up dialogues changed to actual activities. 
 
 -More culture and phrases are available.
+
+-Dialogue menu avaiable
 
 ------------------------------------------------------------------------------------------------------------
 
