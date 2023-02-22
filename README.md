@@ -90,6 +90,6 @@ Available Functionalities:
 
 ![22](https://user-images.githubusercontent.com/98497929/218026709-3aa22f8f-5da8-4d79-a764-3f781d0e87e6.JPG)
 
-![23](https://user-images.githubusercontent.com/98497929/218026724-ce4ea1a6-3794-4ecf-9b0d-ac54ade59fc5.JPG)
+![13](https://user-images.githubusercontent.com/98497929/220540217-76496183-46da-4846-a5ce-afe49bf86a69.JPG)
 
-![24](https://user-images.githubusercontent.com/98497929/218026736-4b9ad081-b292-4ec3-acf7-ea0686fa5574.JPG)
+![14](https://user-images.githubusercontent.com/98497929/220540233-6fb5b4ea-8ef5-4162-87c2-da97ce6ce67a.JPG)
