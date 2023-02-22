@@ -93,3 +93,8 @@ Available Functionalities:
 ![13](https://user-images.githubusercontent.com/98497929/220540217-76496183-46da-4846-a5ce-afe49bf86a69.JPG)
 
 ![14](https://user-images.githubusercontent.com/98497929/220540233-6fb5b4ea-8ef5-4162-87c2-da97ce6ce67a.JPG)
+
+- Dialogue:
+
+![15](https://user-images.githubusercontent.com/98497929/220540561-bd3ff123-0c15-40a8-9d5b-d2f6ecfcffc3.JPG)
+
