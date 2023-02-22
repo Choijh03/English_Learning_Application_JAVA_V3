@@ -30,7 +30,7 @@ Available Functionalities:
 
 - Splash Screen:
 
-![Screenshot_20230221_220135_EnglishLearner](https://user-images.githubusercontent.com/98497929/220537423-bf95b654-8fb9-4a08-b1d9-a24127fe4a4c.jpg)
+![Screenshot_20230221_220135_EnglishLearner](https://user-images.githubusercontent.com/98497929/220537521-15d07369-0f78-4fd4-9dee-06d33f24a7aa.jpg)
 
 - Home Screen & 3000 most common day to day English words offered::
 
