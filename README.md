@@ -54,7 +54,9 @@ Available Functionalities:
 
 - Word Memorization Games: Quiz and Matching the words:
 
-![16](https://user-images.githubusercontent.com/98497929/218026571-54c9fd2a-65bc-4e62-833a-3a9c03d41788.JPG)
+![5](https://user-images.githubusercontent.com/98497929/220538833-338d9355-bc40-4d1e-af98-9fcd897c88fe.JPG)
+
+![6](https://user-images.githubusercontent.com/98497929/220538847-2a4a6359-81bb-4a0e-bf74-fbe711289182.JPG)
 
 ![17](https://user-images.githubusercontent.com/98497929/218026600-68a15524-a306-4832-a594-c7f921b57296.JPG)
 
