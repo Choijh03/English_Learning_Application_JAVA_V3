@@ -80,7 +80,9 @@ Available Functionalities:
 
 ![14](https://user-images.githubusercontent.com/98497929/218026494-68fc9796-854e-4981-9707-8d1bd298d70f.JPG)
 
-![15](https://user-images.githubusercontent.com/98497929/218026529-56211fde-303b-4d74-add8-296b06c9fabe.JPG)
+![11](https://user-images.githubusercontent.com/98497929/220539887-a16d7136-71f5-4a11-803c-4fe2f1d18589.JPG)
+
+![12](https://user-images.githubusercontent.com/98497929/220539903-1f3dc828-0200-482f-9d53-b61cf7073826.JPG)
 
 - Daily used Phrases: 
 
