@@ -18,11 +18,9 @@ What's different from second version:
 
 -Animations were added in translation, camera, culture, phrases, and game activities.
 
+-New Loading screen (or Splash Screen) available.
+
 -Culture pop-up dialogues changed to actual activities. 
-
--Splash screen reformatted.
-
--More culture and phrases are available.
 
 -Dialogue menu avaiable (Coming soon!)
 
