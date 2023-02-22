@@ -53,7 +53,7 @@ Available Functionalities:
 ![9](https://user-images.githubusercontent.com/98497929/218026414-dd9006cf-730b-496f-9220-a57ea78c0324.JPG)
 
 - Word Memorization Games: Quiz and Matching the words:
-- 
+
 ![16](https://user-images.githubusercontent.com/98497929/218026571-54c9fd2a-65bc-4e62-833a-3a9c03d41788.JPG)
 
 ![17](https://user-images.githubusercontent.com/98497929/218026600-68a15524-a306-4832-a594-c7f921b57296.JPG)
