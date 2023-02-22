@@ -74,7 +74,9 @@ Available Functionalities:
 
 ![12](https://user-images.githubusercontent.com/98497929/218026463-471447a4-6525-4a49-b110-13b76f0201ae.JPG)
 
-![13](https://user-images.githubusercontent.com/98497929/218026476-1935c5f1-bd6b-4de7-a230-a70ad6bcc617.JPG)
+![9](https://user-images.githubusercontent.com/98497929/220539446-13b1ca19-1d1a-4157-a5e0-d7d7af72bf56.JPG)
+
+![10](https://user-images.githubusercontent.com/98497929/220539474-b31c74c9-9379-4179-afb3-d6d7848050d1.JPG)
 
 ![14](https://user-images.githubusercontent.com/98497929/218026494-68fc9796-854e-4981-9707-8d1bd298d70f.JPG)
 
