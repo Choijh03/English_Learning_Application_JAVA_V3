@@ -30,15 +30,13 @@ Available Functionalities:
 
 - Splash Screen:
 
-![Screenshot_20230221_220135_EnglishLearner](https://user-images.githubusercontent.com/98497929/220537650-774f8a42-1e9d-46ac-a247-2716ba980591.jpg)
+![1](https://user-images.githubusercontent.com/98497929/220538246-c15947e8-ac50-4513-b1ca-f38b7fff232c.JPG)
 
 - Home Screen & 3000 most common day to day English words offered::
 
-![2](https://user-images.githubusercontent.com/98497929/218026171-3b6d20d4-c38f-43bb-92e7-de26785db7b9.JPG)
+![2](https://user-images.githubusercontent.com/98497929/220538271-5a0b6417-be9a-457c-bb7a-81c9847ed4cf.JPG)
 
-![3](https://user-images.githubusercontent.com/98497929/218026213-7beb3d6f-5c40-4cfc-93c5-6be5e3cbd1e2.JPG)
-
-![4](https://user-images.githubusercontent.com/98497929/218026231-6879192f-11bc-47c1-9cf7-286051ff0384.JPG)
+![3](https://user-images.githubusercontent.com/98497929/220538283-b9304dc8-b584-433e-92b5-423b0eb89f3b.JPG)
 
 - Translation by using Naver papago API: Korean to English & English to Korean:
 
