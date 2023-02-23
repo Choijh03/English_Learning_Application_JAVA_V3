@@ -22,7 +22,7 @@ What's different from second version:
 
 -Culture pop-up dialogues changed to actual activities. 
 
--Dialogue menu avaiable (Coming soon!)
+-Dialogue menu available (Coming soon!)
 
 ------------------------------------------------------------------------------------------------------------
 
